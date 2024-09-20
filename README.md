@@ -1,7 +1,7 @@
 # Hardenizado de equipos Windows 11 IoT
 
-Función para deshabilitar servicios innecesarios
-Desactivar la cuenta de administrador local
+- Función para deshabilitar servicios innecesarios
+- Desactivar la cuenta de administrador local
 Establecer política de contraseñas fuertes
 Deshabilitar la compartición administrativa
 Configurar actualizaciones automáticas
